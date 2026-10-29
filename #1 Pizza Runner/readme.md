@@ -46,14 +46,14 @@ The analysis focuses on answering business questions across the following areas:
 
 ### How to Use This Project
 
-1. Visit the official Pizza Runner case study to review the business context and dataset. (https://8weeksqlchallenge.com/case-study-2/)
+1. Visit the official [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) case study to review the business context and dataset.
 2. Set up the supplied case-study tables in SQL Server.
 3. Open the relevant .sql file in SQL Server Management Studio (SSMS).
 4. Execute the queries against your database to reproduce the analysis.
 
 ### Credits and References
 
-- **Challenge Creator:** [Danny Ma](https://8weeksqlchallenge.com/)
+- **Challenge Creator:** Danny Ma
 - **Case Study:** [Pizza Runner – Case Study #2](https://8weeksqlchallenge.com/case-study-2/)
 - **Challenge Platform:** [8 Week SQL Challenge](https://8weeksqlchallenge.com/)
 - **Database Technology:** Microsoft SQL Server
